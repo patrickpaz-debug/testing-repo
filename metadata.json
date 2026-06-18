@@ -1,0 +1,6 @@
+{
+  "name": "Pickleball Court Booking",
+  "description": "An elegant, secure, and clean pickleball court rental and online booking platform for admin operations and pickleball players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

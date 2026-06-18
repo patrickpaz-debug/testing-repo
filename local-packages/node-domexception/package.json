@@ -1,0 +1,6 @@
+{
+  "name": "node-domexception",
+  "version": "1.0.0",
+  "description": "Native stub to eliminate deprecated node-domexception warning",
+  "main": "index.js"
+}
